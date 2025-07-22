@@ -1,0 +1,6 @@
+Resume_ID,Resume_Text,Extracted_Job_Title,Extracted_Company_Name,Extracted_Skills
+1,"Software Engineer with 5 years experience at Google, skilled in Python, Java, and cloud computing.",Software Engineer,Google,"['Python', 'Java', 'Cloud Computing']"
+2,"Data Scientist at Microsoft, proficient in Machine Learning, SQL, and Deep Learning.",Data Scientist,Microsoft,"['Machine Learning', 'SQL', 'Deep Learning']"
+3,"Marketing Manager with expertise in digital marketing, SEO, and branding. Worked at Amazon.",Marketing Manager,Amazon,"['Digital Marketing', 'SEO', 'Branding']"
+4,"Senior Developer with experience in C++, Kubernetes, and microservices at IBM.",Senior Developer,IBM,"['C++', 'Kubernetes', 'Microservices']"
+5,"HR Manager with a strong background in recruitment, employee engagement, and compliance at Tesla.",HR Manager,Tesla,"['Recruitment', 'Employee Engagement', 'Compliance']"
